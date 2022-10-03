@@ -225,7 +225,7 @@ export default function EditUser({exsistUser}:any) {
                                 color="primary"
                                 type="submit"
                             >
-                                Add
+                                Edit
                             </Button>
 
                         </DialogActions>
